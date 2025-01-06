@@ -1,4 +1,7 @@
 import streamlit as st
+import requests
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Set page layout and title
 st.set_page_config(page_title="Eco-Friendly Gadget Dashboard", layout="wide")
